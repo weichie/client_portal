@@ -5,14 +5,19 @@ A test project to learn myself NuxtJS. The project uses a mix of Wordpress REST 
 
 Visit my personal website on [WeichieProjects](https://weichieprojects.com)
 
-## Functions & How It Works
+### Functions & How It Works
 - Auth through Wordpress REST API (user management in Wordpress)
 - Client Data stored through a Wordpress back-end
 - Invoice data setup through the app and stored to the Wordpress back-end
 - Todo lists managed through ClickUp
 - Deadlines managed through Clickup
 
-## Build Setup
+### Used Packages
+
+- Nuxtjs (vuex, vue-router, Axios, ...)
+- node-sass & sass-loader
+
+### Build Setup
 
 ``` bash
 # install dependencies
