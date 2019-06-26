@@ -1,6 +1,16 @@
-# panel
+# WP Client Portal
+A test project to learn myself NuxtJS. The project uses a mix of Wordpress REST and the Clickup API. This portal is a fun-project to store all of my clients data in the same place.
 
-> WeichieProjects Client Portal App
+> This project doesn't have a live preview yet.
+
+Visit my personal website on [WeichieProjects](https://weichieprojects.com)
+
+## Functions & How It Works
+- Auth through Wordpress REST API (user management in Wordpress)
+- Client Data stored through a Wordpress back-end
+- Invoice data setup through the app and stored to the Wordpress back-end
+- Todo lists managed through ClickUp
+- Deadlines managed through Clickup
 
 ## Build Setup
 
