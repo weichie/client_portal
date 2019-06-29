@@ -1,0 +1,24 @@
+.input-row{
+   margin-bottom: 10px;
+   
+   label{
+      display: block;
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 1px;
+      color: #aaaaaa;
+      text-transform: uppercase;
+   }
+   .form-input{
+      border: 1px solid red;
+      margin: 5px 0;
+      padding: 10px;
+      border: solid 1px #e5e5e5;
+      width: 100%;
+      -webkit-appearance: none;
+      -moz-appearance: none;
+      font-size: 16px;
+      color: #9a9a9a;
+      resize: none;
+   }
+}

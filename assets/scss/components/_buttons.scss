@@ -1,0 +1,33 @@
+.btn{
+   display: inline-block;
+   -webkit-appearance: none;
+   background: none;
+   text-align: center;
+   cursor: pointer;
+   border: 1px solid $border-color;
+}
+
+.btn-block{
+   display: block;
+   width: 100%;
+}
+
+.btn-lg{
+   padding: 15px 25px;
+   text-transform: uppercase;
+   font-weight: 700;
+   font-size: 12px;
+   font-weight: bold;
+   letter-spacing: 1.7px;
+   transition: all .35s ease;
+}
+
+.btn-primary{
+   border: none;
+   color: #ffffff;
+   background: $custom-black;
+
+   &:hover{
+      background: lighten($custom-black, 10%);
+   }
+}
